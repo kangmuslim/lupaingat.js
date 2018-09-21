@@ -1,0 +1,2 @@
+# lupaingat.js
+lupa ingat
